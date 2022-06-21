@@ -1,0 +1,1 @@
+console.line("Ejemplo");
